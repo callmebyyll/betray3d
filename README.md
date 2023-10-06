@@ -14,7 +14,7 @@ yum install python3-pip -y
 yum install nodejs -y
 yum install npm -y
 
-Debain, Ubuntu:
+Debian, Ubuntu, Kali:
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
@@ -28,7 +28,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/senz-repo/RexonC2
+git clone https://github.com/callmebyyll/betray3d
 cd RexonC2
 npm i requests && npm i https-proxy-agent && npm i crypto-random-string && npm i events && npm i fs && npm i net && npm i cloudscraper && npm i request && npm i hcaptcha-solver && npm i randomstring && npm i cluster && npm i cloudflare-bypasser
 pip3 install -r requirements.txt
@@ -39,6 +39,5 @@ python3 c2.py
 
 # CONTACT:
 ```sh
-Telegram: @rexonc2
-Discord: Soon
+Instagram : @b.yyll
 ```
